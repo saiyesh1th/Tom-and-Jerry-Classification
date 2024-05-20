@@ -1,16 +1,8 @@
-# model
+# Tom-and-Jerry-Classification
 
-A new Flutter project.
+A new Flutter Tflite project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Introducing a Flutter application that utilizes TensorFlow Lite for accurately classifying images of Tom and Jerry. This app empowers users to either capture a new photo or select an existing image from their gallery for classification. Upon selection, the app analyzes the image and delivers a classification result along with the confidence level.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
