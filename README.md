@@ -6,3 +6,4 @@ A new Flutter Tflite project.
 
 Introducing a Flutter application that utilizes TensorFlow Lite for accurately classifying images of Tom and Jerry. This app empowers users to either capture a new photo or select an existing image from their gallery for classification. Upon selection, the app analyzes the image and delivers a classification result along with the confidence level.
 
+https://github.com/saiyesh1th/Tom-and-Jerry-Classification/blob/main/TomandJerryClassification.mp4
